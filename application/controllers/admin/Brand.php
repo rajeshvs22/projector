@@ -12,6 +12,7 @@ class Brand extends Admin_Controller {
         $this->load->model(array('brand_model'));
         $this->load->helper('url');
         $this->session->unset_userdata('site_lang');
+        echo "eeeeeeeeeeeeeeeeeeeeeeeeeeeee";
     }
 
     function index() {
