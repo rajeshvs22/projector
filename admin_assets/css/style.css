@@ -1,0 +1,17 @@
+/********************************* Developer style ***********************/
+#search-form label{
+    float: left;
+    font-size: 15px;
+    margin-right: 10px;
+    position: relative;
+    top: 5px;
+}
+.t_loader_img{
+    background: url(../../assets/images/select2-spinner.gif) no-repeat;
+    width: 16px;
+    height: 16px;
+    float: right;
+}
+.radio label::before{border: 2px solid #727272 !important;}
+.checkbox-nice label::before{border: 2px solid #727272 !important;}
+.t_active,.t_inactive{     cursor: pointer;;}

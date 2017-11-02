@@ -1,0 +1,1 @@
+log open parentheses sin open parentheses double integral integral close parentheses close parentheses
